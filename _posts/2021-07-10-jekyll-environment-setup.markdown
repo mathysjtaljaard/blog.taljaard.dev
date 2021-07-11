@@ -6,8 +6,6 @@ categories: jekyll setup development environment
 tag: ide
 ---
 
-### ![](https://media.giphy.com/media/1oDwWUJWeDvyz12yWb/giphy.gif)
-
 ## TLDR;
 
 - [Development in Containers](https://code.visualstudio.com/docs/remote/containers) 
@@ -34,6 +32,9 @@ tag: ide
   ```
   - `[cmd|cntr]+shift+P` -> Jekyll: Run
     - Your site should be presented [Your Site](http://localhost:4000)
+
+#### Still working on it :-)
+![](https://media.giphy.com/media/1oDwWUJWeDvyz12yWb/giphy.gif)
 
 ## Links
 
