@@ -21,7 +21,7 @@ gem "minima", "~> 2.5"
 
 
 # Added to address vulnerabilities
-gem 'actionpack', '~> 6.1', '>= 6.1.4.1'
+gem 'actionpack', '~> 6.1'
 gem "nokogiri", ">= 1.12.5"
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
